@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2024-01-23
+img: tistory.png
+alt: image-alt
+project-date: Jan 2024
+client: Everyone
+category: Study Log
+description: 저의 블로그 링크입니다. <br> <a href="https://devyoda.tistory.com" target="_blank">devyoda.tistory.com</a>
+---
